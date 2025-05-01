@@ -4,7 +4,8 @@ PDF compressor with a GUI Interface
 
 A graphical PDF compression tool that reduces PDF file sizes using Ghostscript with customizable compression levels.
 
-![PDF Compressor Screenshot](screenshot.png)  *(Optional: Add screenshot later)*
+
+
 
 ## Features
 
