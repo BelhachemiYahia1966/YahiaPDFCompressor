@@ -5,6 +5,9 @@ PDF compressor with a GUI Interface
 A graphical PDF compression tool that reduces PDF file sizes using Ghostscript with customizable compression levels.
 
 
+![image alt](https://github.com/BelhachemiYahia1966/YahiaPDFCompressor/blob/f1e603d926fdfc14824745fe361a84108cc9c5b9/YahiaPDFCompressorimg.png)
+
+
 
 
 ## Features
